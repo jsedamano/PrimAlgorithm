@@ -1,0 +1,12 @@
+10 vertices found.
+Adding edge (0,8) with weight 4.
+Adding edge (8,4) with weight 1.
+Adding edge (8,6) with weight 1.
+Adding edge (4,2) with weight 1.
+Adding edge (2,5) with weight 1.
+Adding edge (5,3) with weight 1.
+Adding edge (6,1) with weight 1.
+Adding edge (1,7) with weight 1.
+Adding edge (1,9) with weight 1.
+
+Total weight of spanning tree: 12

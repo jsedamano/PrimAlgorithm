@@ -1,0 +1,27 @@
+25 vertices found.
+Adding edge (0,6) with weight 1.
+Adding edge (0,23) with weight 1.
+Adding edge (3,6) with weight 1.
+Adding edge (6,9) with weight 1.
+Adding edge (4,9) with weight 1.
+Adding edge (4,12) with weight 1.
+Adding edge (2,12) with weight 1.
+Adding edge (12,20) with weight 1.
+Adding edge (1,20) with weight 1.
+Adding edge (1,11) with weight 1.
+Adding edge (13,23) with weight 1.
+Adding edge (2,14) with weight 2.
+Adding edge (3,5) with weight 2.
+Adding edge (5,16) with weight 1.
+Adding edge (4,21) with weight 2.
+Adding edge (17,21) with weight 1.
+Adding edge (7,17) with weight 1.
+Adding edge (8,17) with weight 1.
+Adding edge (4,22) with weight 2.
+Adding edge (22,24) with weight 1.
+Adding edge (7,18) with weight 2.
+Adding edge (10,17) with weight 2.
+Adding edge (12,19) with weight 2.
+Adding edge (11,15) with weight 3.
+
+Total weight of spanning tree: 33
